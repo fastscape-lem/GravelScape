@@ -1,4 +1,4 @@
-name: workshop-itn-potsdam-2023-01
+name: GravelScape_package2025
 channels:
   - conda-forge
 dependencies:
