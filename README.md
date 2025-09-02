@@ -16,7 +16,7 @@ Finally run the command below to start the Jupyterlab application. It should ope
 
 $ jupyter lab
 
-All necessary packages are already included in the environment.yml file. For transparency and in case of issue, the notebooks and packages depend on Python (3.9 or later is recommended), numpy, scipy, pandas, fastscape, flexure, and multiflow packages. 
+All necessary packages are already included in the environment.yml file. For transparency and in case of issue, the notebooks and packages depend on Python (3.9 or later is recommended), numpy, scipy, pandas, fastscape, flexure, and multiflow packages. For reference, the environment.yml environment, python source code packages, and ValidationGravelScapevsDulleretal2010.ipynb notebook use versions: fastscape: 0.1.0; xarray: 2025.6.1; numpy: 1.26.4; xsimlab: 0.5.0.
 
 ## Usage
 GravelScape is a .py package (along with otheer packages used in the ESURF publication) that runs coupled to the FastScape Model. Some example applications, couplings, and validation of the code as jupyer notebooks are in the notebooks folder.
